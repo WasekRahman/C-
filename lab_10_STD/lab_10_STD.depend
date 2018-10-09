@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533857339 source:c:\users\dell\documents\c++\lab_10_std\main.cpp
+	<iostream>
+	<queue>
+	<exception>
+

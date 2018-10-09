@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1535561409 source:c:\users\dell\documents\c++\sorting\main.cpp
+	<iostream>
+
+1536435045 source:c:\users\dell\documents\c++\sorting\insertionsort.cpp
+	<iostream>
+	<vector>
+
+1536261504 source:c:\users\dell\documents\c++\sorting\selectionsort.cpp
+	<iostream>
+	<vector>
+

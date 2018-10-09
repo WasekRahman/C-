@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536437440 source:c:\users\dell\documents\c++\mergesort\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1533534571 source:c:\users\dell\documents\c++\lab_14\src\heaptype.cpp
+	"heaptype.h"
+
+1533579581 c:\users\dell\documents\c++\lab_14\include\heaptype.h
+
+1533579346 source:c:\users\dell\documents\c++\lab_14\src\pqtype.cpp
+	"pqtype.h"
+
+1533579879 c:\users\dell\documents\c++\lab_14\include\pqtype.h
+	"heaptype.h"
+

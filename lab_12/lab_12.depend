@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533103048 source:c:\users\dell\documents\c++\lab_12\main.cpp
+	<iostream>
+	<math.h>
+	<conio.h>
+

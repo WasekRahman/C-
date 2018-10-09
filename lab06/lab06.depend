@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1530629176 source:c:\users\dell\documents\c++\lab06\main.cpp
+	<iostream>
+	"UnsortedType.h"
+
+1530628721 c:\users\dell\documents\c++\lab06\include\unsortedtype.h
+
+1530629114 source:c:\users\dell\documents\c++\lab06\src\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+	<exception>
+

@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1536681753 source:c:\users\dell\documents\c++\lab_15\main.cpp
+	"src\graphtype.cpp"
+
+1536598934 source:c:\users\dell\documents\c++\lab_15\src\stacktype.cpp
+	"stackType.h"
+	<iostream>
+	<string>
+
+1536598934 c:\users\dell\documents\c++\lab_15\include\stacktype.h
+
+1536599118 source:c:\users\dell\documents\c++\lab_15\src\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1536599090 c:\users\dell\documents\c++\lab_15\include\quetype.h
+
+1536681597 source:c:\users\dell\documents\c++\lab_15\src\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1536598505 c:\users\dell\documents\c++\lab_15\include\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1536598934 c:\users\dell\documents\c++\lab_15\src\stacktype.cpp
+	"stackType.h"
+	<iostream>
+	<string>
+
+1536599118 c:\users\dell\documents\c++\lab_15\src\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1536681597 c:\users\dell\documents\c++\lab_15\src\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1531432525 source:c:\users\dell\documents\c++\assignme2\src\nodetype.cpp
+	"NodeType.h"
+	<iostream>
+
+1531458825 c:\users\dell\documents\c++\assignme2\include\nodetype.h
+
+1535902537 source:c:\users\dell\documents\c++\assignme2\src\sortedtype.cpp
+	"SortedType.h"
+	"NodeType.h"
+	<iostream>
+	<exception>
+
+1535829276 c:\users\dell\documents\c++\assignme2\include\sortedtype.h
+	"NodeType.h"
+
+1535902537 source:c:\users\dell\documents\c++\assignme2\sortedtype_runnerfile.cpp
+	"SortedType.h"
+	<iostream>
+

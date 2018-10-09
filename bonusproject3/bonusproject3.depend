@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1533888646 source:c:\users\dell\documents\c++\bonusproject3\src\queueusingvector.cpp
+	"QueueUsingVector.h"
+	<iostream>
+
+1533888842 c:\users\dell\documents\c++\bonusproject3\include\queueusingvector.h
+	<vector>
+

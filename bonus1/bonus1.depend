@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1533905744 source:c:\users\dell\documents\c++\bonus1\unsorteddoublyllist_runnerfile.cpp
+	<iostream>
+	"UnsortedDoublyLList.h"
+
+1533905829 c:\users\dell\documents\c++\bonus1\include\unsorteddoublyllist.h
+	"NodeType.h"
+
+1533905771 c:\users\dell\documents\c++\bonus1\include\nodetype.h
+
+1533906148 source:c:\users\dell\documents\c++\bonus1\src\nodetype.cpp
+	"NodeType.h"
+	<iostream>
+

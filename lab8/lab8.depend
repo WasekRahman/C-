@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1531418966 source:c:\users\dell\documents\c++\lab8\src\stacktype.cpp
+	"StackType.h"
+	<iostream>
+	<string>
+
+1531417906 c:\users\dell\documents\c++\lab8\include\stacktype.h
+
+1531419856 source:c:\users\dell\documents\c++\lab8\main.cpp
+	<iostream>
+	"src/StackType.cpp"
+
+1531418966 c:\users\dell\documents\c++\lab8\src\stacktype.cpp
+	"StackType.h"
+	<iostream>
+	<string>
+

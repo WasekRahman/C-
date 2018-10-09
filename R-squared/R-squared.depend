@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536437108 source:c:\users\dell\documents\c++\r-squared\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

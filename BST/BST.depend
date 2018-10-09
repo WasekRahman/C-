@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1536253636 source:c:\users\dell\documents\c++\bst\src\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1536252998 c:\users\dell\documents\c++\bst\include\quetype.h
+
+1536254321 source:c:\users\dell\documents\c++\bst\src\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.h"
+	<iostream>
+
+1536252913 c:\users\dell\documents\c++\bst\include\binarysearchtree.h
+	"quetype.h"
+
+1536254592 source:c:\users\dell\documents\c++\bst\main.cpp
+	"src\quetype.cpp"
+	"src\binarysearchtree.cpp"
+	<iostream>
+
+1536253636 c:\users\dell\documents\c++\bst\src\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1536254321 c:\users\dell\documents\c++\bst\src\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.h"
+	<iostream>
+

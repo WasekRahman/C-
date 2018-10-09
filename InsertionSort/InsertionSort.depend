@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536437617 source:c:\users\dell\documents\c++\insertionsort\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1536557162 source:c:\users\dell\documents\c++\lab 13\main.cpp
+	"pqtype.cpp"
+
+1536557164 c:\users\dell\documents\c++\lab 13\pqtype.cpp
+	"pqtype.h"
+	<iostream>
+
+1536557164 c:\users\dell\documents\c++\lab 13\pqtype.h
+	"heaptype.cpp"
+
+1536557162 c:\users\dell\documents\c++\lab 13\heaptype.cpp
+	"heaptype.h"
+
+1536557162 c:\users\dell\documents\c++\lab 13\heaptype.h
+
+1536683766 source:c:\users\dell\documents\c++\lab14_\src\heaptype.cpp
+	"heaptype.h"
+
+1536683776 c:\users\dell\documents\c++\lab14_\include\heaptype.h
+
+1536684794 source:c:\users\dell\documents\c++\lab14_\main.cpp
+	"src\pqtype.cpp"
+
+1536685234 c:\users\dell\documents\c++\lab14_\src\pqtype.cpp
+	"pqtype.h"
+	<iostream>
+
+1536683903 c:\users\dell\documents\c++\lab14_\include\pqtype.h
+	"heaptype.h"
+
+1536684186 source:c:\users\dell\documents\c++\lab14_\src\pqtype.cpp
+	"pqtype.h"
+	<iostream>
+

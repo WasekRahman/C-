@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1531429575 source:c:\users\dell\documents\c++\lab5\src\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
+1531429503 c:\users\dell\documents\c++\lab5\include\sortedtype.h
+
+1531430427 source:c:\users\dell\documents\c++\lab5\main.cpp
+	<iostream>
+	"src/SortedType.cpp"
+
+1531429575 c:\users\dell\documents\c++\lab5\src\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+

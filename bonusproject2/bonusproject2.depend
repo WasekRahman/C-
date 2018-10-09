@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1533842962 source:c:\users\dell\documents\c++\bonusproject2\src\queueusingstacks.cpp
+	"QueueUsingStacks.h"
+	<iostream>
+
+1533842869 c:\users\dell\documents\c++\bonusproject2\include\queueusingstacks.h
+	<stack>
+
+1533843057 source:c:\users\dell\documents\c++\bonusproject2\main.cpp
+	"include\QueueUsingStacks.h"
+	<iostream>
+	<stack>
+
+1533799676 c:\users\dell\documents\c++\bonusproject2\src\queueusingstacks.cpp
+	"QueueUsingStacks.h"
+	<stack>
+

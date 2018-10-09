@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1531753696 source:c:\users\dell\documents\c++\lab10\main.cpp
+	<iostream>
+	"src\queueType.cpp"
+
+1531753528 c:\users\dell\documents\c++\lab10\src\queuetype.cpp
+	"queueType.h"
+	<iostream>
+
+1531753511 c:\users\dell\documents\c++\lab10\include\queuetype.h
+
+1531753528 source:c:\users\dell\documents\c++\lab10\src\queuetype.cpp
+	"queueType.h"
+	<iostream>
+

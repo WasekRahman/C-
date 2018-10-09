@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1535996955 source:c:\users\dell\documents\c++\finals\1713032642_cse225_summer2018_final.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+	<queue>
+

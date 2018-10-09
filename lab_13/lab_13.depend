@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1533481715 source:c:\users\dell\documents\c++\lab_13\src\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.h"
+	<iostream>
+
+1533481699 c:\users\dell\documents\c++\lab_13\include\binarysearchtree.h
+	"quetype.h"
+
+1533481635 c:\users\dell\documents\c++\lab_13\include\quetype.h
+

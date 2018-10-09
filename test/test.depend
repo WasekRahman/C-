@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1529855526 source:c:\users\dell\documents\c++\test\main.cpp
+	<iostream>
+	"dynarr.h"
+
+1528303013 c:\users\dell\documents\c++\test\dynarr.h
+
+1529862529 source:c:\users\dell\documents\c++\test\src\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+
+1529859729 c:\users\dell\documents\c++\test\include\dynarr.h
+
